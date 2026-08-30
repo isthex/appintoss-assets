@@ -1,21 +1,21 @@
 {
- "updated": "2026-08-23",
- "total": 10960,
+ "updated": "2026-08-30",
+ "total": 10964,
  "regions": {
   "전국": {
    "slug": "nationwide",
    "file": "programs-nationwide.json",
-   "count": 2191
+   "count": 2188
   },
   "서울": {
    "slug": "seoul",
    "file": "programs-seoul.json",
-   "count": 1006
+   "count": 1010
   },
   "부산": {
    "slug": "busan",
    "file": "programs-busan.json",
-   "count": 370
+   "count": 369
   },
   "대구": {
    "slug": "daegu",
@@ -30,7 +30,7 @@
   "광주": {
    "slug": "gwangju",
    "file": "programs-gwangju.json",
-   "count": 1105
+   "count": 1112
   },
   "대전": {
    "slug": "daejeon",
@@ -45,12 +45,12 @@
   "경기": {
    "slug": "gyeonggi",
    "file": "programs-gyeonggi.json",
-   "count": 1118
+   "count": 1116
   },
   "강원": {
    "slug": "gangwon",
    "file": "programs-gangwon.json",
-   "count": 539
+   "count": 538
   },
   "충북": {
    "slug": "chungbuk",
