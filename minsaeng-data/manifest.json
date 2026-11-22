@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-15",
- "total": 10942,
+ "updated": "2026-11-22",
+ "total": 10894,
  "regions": {
   "전국": {
    "slug": "nationwide",
    "file": "programs-nationwide.json",
-   "count": 2172
+   "count": 2162
   },
   "서울": {
    "slug": "seoul",
    "file": "programs-seoul.json",
-   "count": 1011
+   "count": 1014
   },
   "부산": {
    "slug": "busan",
    "file": "programs-busan.json",
-   "count": 372
+   "count": 374
   },
   "대구": {
    "slug": "daegu",
    "file": "programs-daegu.json",
-   "count": 274
+   "count": 273
   },
   "인천": {
    "slug": "incheon",
@@ -30,7 +30,7 @@
   "광주": {
    "slug": "gwangju",
    "file": "programs-gwangju.json",
-   "count": 1100
+   "count": 1087
   },
   "대전": {
    "slug": "daejeon",
@@ -45,47 +45,47 @@
   "경기": {
    "slug": "gyeonggi",
    "file": "programs-gyeonggi.json",
-   "count": 1113
+   "count": 1095
   },
   "강원": {
    "slug": "gangwon",
    "file": "programs-gangwon.json",
-   "count": 534
+   "count": 536
   },
   "충북": {
    "slug": "chungbuk",
    "file": "programs-chungbuk.json",
-   "count": 528
+   "count": 526
   },
   "충남": {
    "slug": "chungnam",
    "file": "programs-chungnam.json",
-   "count": 724
+   "count": 706
   },
   "전북": {
    "slug": "jeonbuk",
    "file": "programs-jeonbuk.json",
-   "count": 690
+   "count": 686
   },
   "경북": {
    "slug": "gyeongbuk",
    "file": "programs-gyeongbuk.json",
-   "count": 765
+   "count": 766
   },
   "경남": {
    "slug": "gyeongnam",
    "file": "programs-gyeongnam.json",
-   "count": 669
+   "count": 664
   },
   "세종": {
    "slug": "sejong",
    "file": "programs-sejong.json",
-   "count": 83
+   "count": 79
   },
   "제주": {
    "slug": "jeju",
    "file": "programs-jeju.json",
-   "count": 162
+   "count": 181
   },
   "전남": {
    "slug": "jeonnam",
